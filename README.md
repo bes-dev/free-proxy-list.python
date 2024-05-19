@@ -1,4 +1,4 @@
-# free-proxy-list client
+# free-proxy-list-client
 
 Simple python client to https://free-proxy-list.net/
 
@@ -25,7 +25,7 @@ pip install .
 ## Example
 
 ```python
-from free_proxy_list import FreeProxyListClient
+from free_proxy_list_client import FreeProxyListClient
 
 client = FreeProxyListClient()
 search_results = client.search(get_random_proxy=True)[0]
