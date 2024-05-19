@@ -26,7 +26,7 @@ requirements = [
 
 setup(
     # Metadata
-    name='free_proxy_list',
+    name='free_proxy_list_client',
     version=VERSION,
     author='Sergei Belousov aka BeS',
     author_email='sergei.o.belousov@gmail.com',
