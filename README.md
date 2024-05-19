@@ -11,7 +11,7 @@ Simple python client to https://free-proxy-list.net/
 ## Install package
 
 ```bash
-pip install free_proxy_list
+pip install free_proxy_list_client
 ```
 
 ## Install the latest version
